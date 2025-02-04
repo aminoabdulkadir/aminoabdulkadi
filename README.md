@@ -7,3 +7,11 @@ I'm currently studying Information Technology, focusing on systems, networking, 
 System Administration & Networking
 Cybersecurity Fundamentals
 Scripting & Automation (Python, Bash)
+
+🤝 Looking to Collaborate On
+
+IT projects that involve troubleshooting and problem-solving
+Learning more about automation and cloud services
+Anything that helps build real-world IT skills
+📫 Let’s Connect!
+I’m always open to learning new things and connecting with others in tech. Feel free to reach out to me at aminoabdulkadir2@gmail.com
